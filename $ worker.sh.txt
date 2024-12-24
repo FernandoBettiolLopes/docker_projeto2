@@ -1,0 +1,2 @@
+$ worker.sh
+           docker swarm join --token SWMTKN-1-3pdlmnsfskfgbkjrhfowiufr90gup-jkfgbks1b58snm31dbfmnsdvdbi 10.10.10.100:2377
